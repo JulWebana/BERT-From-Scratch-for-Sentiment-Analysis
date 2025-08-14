@@ -1,5 +1,28 @@
 # BERT-From-Scratch-for-Sentiment-Analysis
 
+> 📌 **Note** : Ce dépôt est un **fork** du projet original [BERT-From-Scratch-for-Sentiment-Analysis](https://github.com/reouvenzana/BERT-From-Scratch-for-Sentiment-Analysis), réalisé en **projet de groupe** dans le cadre de notre Master en Data Science et Intelligence Artificielle.  
+>  
+> **Mon rôle** : préparation et nettoyage des données, configuration du pipeline d’entraînement, évaluation du modèle et visualisation des résultats.  
+
+---
+
+## 🎬 Introduction  
+
+L’analyse de sentiment est devenue un domaine de plus en plus important dans le traitement automatique du langage naturel (NLP), offrant des informations précieuses sur l’opinion publique dans divers secteurs.  
+
+En tant qu’étudiants en Master de Data Science, nous avons entrepris un projet portant sur **l’analyse de sentiment des critiques d’utilisateurs issues de Rotten Tomatoes**, un site populaire d’agrégation de critiques de films.  
+
+L’objectif de ce projet est de classer les critiques comme étant **positives** ou **négatives**, afin de fournir une compréhension approfondie des réactions du public vis-à-vis des films.  
+
+En utilisant des techniques avancées d’apprentissage automatique — en particulier l’architecture **BERT** — nous avons cherché à capturer les nuances d’expression et les indices contextuels présents dans les critiques, afin d’obtenir des prédictions de sentiment plus précises.  
+
+**Membres de l’équipe :**  
+- Reouven Zana  
+- Julien Webana  AGA
+- Rhosane Silva dos Santos  
+- Gilles Degue  
+
+---
 
 
 **Objectif :**
@@ -100,8 +123,8 @@ python inference.py --text "I love this product!"
 
 ```
 
-
 ---
+
 
 📄 Licence
 ```
