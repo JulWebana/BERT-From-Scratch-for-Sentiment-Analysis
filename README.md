@@ -1,6 +1,6 @@
 # BERT-From-Scratch-for-Sentiment-Analysis
 
-> 📌 **Note** : Ce dépôt est un **fork** du projet original [BERT-From-Scratch-for-Sentiment-Analysis](https://github.com/reouvenzana/BERT-From-Scratch-for-Sentiment-Analysis), réalisé en **projet de groupe** dans le cadre de notre Master en Data Science et Intelligence Artificielle.  
+> 📌 **Note** : Ce dépôt est un **fork** du projet original [BERT-From-Scratch-for-Sentiment-Analysis](https://github.com/reouvenzana/BERT-From-Scratch-for-Sentiment-Analysis), réalisé en **groupe**. 
 >  
 
 ---
